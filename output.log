@@ -1,0 +1,10 @@
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Compiling mylib
+[0m[0;32m===> Starting relx build process ...
+[0m[0;32m===> Resolving OTP Applications from directories:
+          /tmp/mylib/_build/default/lib
+          /usr/lib/erlang/lib
+          /tmp/mylib/_build/default/rel[0m
+[0;32m===> Resolved mylib-.5.2
+[0m[0;32m===> release successfully created!
+[0m
